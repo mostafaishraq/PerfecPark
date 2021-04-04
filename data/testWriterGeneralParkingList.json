@@ -1,0 +1,20 @@
+{
+    "discountPercentage": 10,
+    "cars": [
+        {
+            "rate": 4.5,
+            "licenseNum": "ABC123",
+            "startTime": "10:10",
+            "startDate": "10-10-2020"
+        },
+        {
+            "rate": 5.5,
+            "licenseNum": "XYZ321",
+            "startTime": "20:20",
+            "startDate": "10-20-2020"
+        }
+    ],
+    "rate": 5,
+    "minDiscountHours": 3,
+    "maxSize": 10
+}

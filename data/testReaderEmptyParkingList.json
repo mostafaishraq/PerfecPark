@@ -1,0 +1,7 @@
+{
+  "discountPercentage": 10,
+  "cars": [],
+  "rate": 5,
+  "minDiscountHours": 3,
+  "maxSize": 10
+}
