@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e93531f-c220-4a55-a7b0-e82d40072cc0" name="Default Changelist" comment="1">
+      <change beforePath="$PROJECT_DIR$/data/testWriterEmptyParkingList.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/testWriterEmptyParkingList.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/testWriterGeneralParkingList.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/testWriterGeneralParkingList.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n7Iumg0A6Ej2DyxcL7YayQMPQ0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ParkAppGui">
+    <configuration name="Extra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Extra" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParkAppGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.ParkAppGui" />
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Project-Starter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest.bytesToInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.CarTest" />
+      <option name="METHOD_NAME" value="bytesToInteger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest.testValidateSecondHyphenInValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-Starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.CarTest" />
+      <option name="METHOD_NAME" value="testValidateSecondHyphenInValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParkAppGui" />
+        <item itemvalue="Application.Extra" />
+        <item itemvalue="JUnit.CarTest.bytesToInteger" />
+        <item itemvalue="JUnit.CarTest.testValidateSecondHyphenInValid" />
+        <item itemvalue="JUnit.All in Project-Starter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e93531f-c220-4a55-a7b0-e82d40072cc0" name="Default Changelist" comment="" />
+      <created>1610734927438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610734927438</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1610735347487</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610735347487</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update 2">
+      <created>1610735593576</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610735593576</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="update 2" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1617560634487">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1617560634487" />
+    <state width="1237" height="154" key="GridCell.Tab.0.bottom" timestamp="1611688039348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611688039348" />
+    <state width="1237" height="154" key="GridCell.Tab.0.center" timestamp="1611688039348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611688039348" />
+    <state width="1237" height="154" key="GridCell.Tab.0.left" timestamp="1611688039347">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611688039347" />
+    <state width="1237" height="154" key="GridCell.Tab.0.right" timestamp="1611688039348">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="154" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611688039348" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1617560068384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1617560068384" />
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617560017451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="255" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1617560017451" />
+    <state x="363" y="242" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1610735240461">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="363" y="242" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1610735240461" />
+    <state x="91" y="0" key="new project wizard" timestamp="1610735878261">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1610735878261" />
+  </component>
+</project>
